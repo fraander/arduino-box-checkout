@@ -1,5 +1,5 @@
 # About
-Arduino code for Box Checkout System made for Northeastern's GE 1502 Cornerstone of Engineering course. The full report can be found in the `Project Report.pdf` file.
+Arduino code for Box Checkout System made for Northeastern's GE 1502 Cornerstone of Engineering course. The full report can be found in the `[Project Report.pdf](https://github.com/fraander/box-checkout-GE1502/blob/cd91767e55979065e33d0c634b1fc5e07b0d3f42/Project%20Report.pdf)` file.
 
 # Executive Summary
 Congestion in Northeastern’s dining halls is difficult at peak times due to congestion. The current take-out alternatives that the university provides either require foresight or are environmentally wasteful. The implementation of a new, environmentally-friendly take-out system would increase productivity and give the students an option to eat outside while enjoying a freshly cooked meal. 
